@@ -1,6 +1,6 @@
 # Java 알고리즘노트
 
-## 각 자리수 숫자 구하는법
+### 각 자리수 숫자 구하는법
 ```java
 int num = 12345;
 String strNum = Integer.toString(num);
